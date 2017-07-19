@@ -1,4 +1,4 @@
-package com.anvigudach.eureka
+package com.anvigudach
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
